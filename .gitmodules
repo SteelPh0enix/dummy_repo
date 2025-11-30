@@ -1,0 +1,3 @@
+[submodule "submodule/llama-mgr"]
+	path = submodule/llama-mgr
+	url = https://github.com/SteelPh0enix/llama-mgr.git
